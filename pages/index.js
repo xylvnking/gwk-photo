@@ -1,7 +1,78 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Albums from '../Components/Albums'
 import Hero from '../Components/Hero'
 // import styles from '../styles/Home.module.css'
+
+
+export const albums = [
+    {
+        albumName: 'albumName1',
+        thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg',
+        photoURLs: [
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+        ],
+        description: 'Hammock fashion axe gochujang, woke locavore mlkshk street art unicorn four loko schlitz squid. Lumbersexual 8-bit jianbing shabby chic JOMO snackwave. Woke locavore mlkshk street art unicorn four loko schlitz squid.',
+
+    },
+    {
+        albumName: 'albumName2',
+        thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+        photoURLs: [
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+        ],
+        description: 'JOMO mixtape migas mukbang sus. YOLO kickstarter aesthetic asymmetrical, trust fund messenger bag squid thundercats drinking vinegar big mood farm.',
+
+    },
+    {
+        albumName: 'albumName3',
+        thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+        photoURLs: [
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+        ],
+        description: ' Pork belly keytar jean shorts, wolf migas succulents pop-up offal taxidermy hoodie pitchfork williamsburg lumbersexual. Lo-fi put a bird on it echo park before they sold out.',
+
+    },
+    {
+        albumName: 'albumName4',
+        thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg',
+        photoURLs: [
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+        ],
+        description: 'Food truck schlitz man braid actually knausgaard you probably havent heard of them direct trade next level semiotics +1. Cloud bread gochujang raclette +1, hexagon fit.',
+
+    },
+    {
+        albumName: 'albumName5',
+        thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg',
+        photoURLs: [
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+        ],
+        description: 'Tattooed raw denim prism kombucha, cold-pressed pinterest pork belly. Hella pok pok disrupt bushwick art party, tattooed pickled af yuccie VHS jianbing microdosing. Tattooed raw denim prism kombucha, cold-pressed pinterest pork belly. Hella pok pok disrupt bushwick art party, tattooed pickled af yuccie VHS jianbing microdosing.',
+
+    },
+    {
+        albumName: 'albumName6',
+        thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+        photoURLs: [
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+            'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+        ],
+        description: 'Street art bitters PBR&B, affogato bruh yes plz slow-carb bicycle rights intelligentsia. Glossier banjo skateboard portland iPhone hexagon fam messenger',
+
+    }
+]
 
 
 
@@ -14,32 +85,10 @@ export default function Home() {
                 <link rel="icon" href="favicon.ico?v=1.1" />
             </Head>
             <Hero />
+            <Albums albums={albums}/>
 
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-            <p>
-                yeah
-            </p>
-
+            
+           
             {/* <footer className={styles.footer}>
                 <a
                     href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
