@@ -15,7 +15,6 @@ export const albums = {
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png',
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -48,7 +47,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -82,7 +80,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -115,7 +112,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -148,7 +144,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -181,7 +176,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -217,7 +211,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -251,7 +244,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -284,7 +276,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -317,7 +308,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -350,7 +340,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
@@ -383,7 +372,6 @@ export const albums = {
                 // ],
                 photoURLsHQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',

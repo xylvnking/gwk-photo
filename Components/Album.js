@@ -61,7 +61,8 @@ export default function Album(props) {
             <div>
                 <div id={styles["blackout"]}></div>
                 <Lightbox 
-                    photos={albums[props.category][props.index].photoURLsLQ}
+                    // photos={albums[props.category][props.index].photoURLsLQ}
+                    photos={albums[props.category][props.index].photoURLsHQ}
                     setLightboxOpen={setLightboxOpen}
                     indexOfPhotoClickedOn={indexOfPhotoClickedOn}
                     // currentControl={currentControl}
@@ -87,7 +88,8 @@ export default function Album(props) {
 
                 <section id={styles["gridContainer"]}>
                     {
-                        albums[props.category][props.index].photoURLsLQ.map((photo, index) => {
+                        // albums[props.category][props.index].photoURLsLQ.map((photo, index) => {
+                        albums[props.category][props.index].photoURLsHQ.map((photo, index) => {
                             return (
                                 // <div className={styles.imageWrapper} key={index} style={{height: dimen}}>
                                 // <div className={styles.imageWrapper} key={index} style={heights && {height: heights[index]}}>

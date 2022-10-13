@@ -40,12 +40,12 @@ export default function Albums() {
                                     width={100}
                                 /> */}
                                 <div id={styles["albumImage"]}>
-                                    {/* <Image src={album.thumbnailURL}  */}
-                                    <Image src={album.thumbnailURLLowQ} 
+                                    <Image src={album.thumbnailURL} 
+                                    // {/* <Image src={album.thumbnailURLLowQ}  */}
                                         // objectFit='contain' 
                                         objectFit='cover' 
                                         layout='fill'
-                                        quality={1}
+                                        // quality={1}
                                         // placeholder='blue'
                                         // blurDataURL='https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg'
                                     />
@@ -71,8 +71,8 @@ export default function Albums() {
                                     width={100}
                                 /> */}
                                 <div id={styles["albumImage"]}>
-                                    {/* <Image src={album.thumbnailURL}  */}
-                                    <Image src={album.thumbnailURLLowQ} 
+                                    <Image src={album.thumbnailURL} 
+                                    // <Image src={album.thumbnailURLLowQ} 
                                         // objectFit='contain' 
                                         objectFit='cover' 
                                         layout='fill'
