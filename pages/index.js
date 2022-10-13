@@ -13,15 +13,25 @@ export const albums = {
                 category: 'exteriors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png',
-                // photoURLs: [
-                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
-                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
-                // ],
-                photoURLs: [
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Hammock fashion axe gochujang, woke locavore mlkshk street art unicorn four loko schlitz squid. Lumbersexual 8-bit jianbing shabby chic JOMO snackwave. Woke locavore mlkshk street art unicorn four loko schlitz squid.',
 
@@ -125,10 +135,19 @@ export const albums = {
                 category: 'interiors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                // photoURLs: [
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                // ],
                 photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638433/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_2df51ea8-93a5-4c97-a83f-9b3e8dcb039c_rnt4jp.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638433/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_2df51ea8-93a5-4c97-a83f-9b3e8dcb039c_rnt4jp.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638214/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_317cea22-27f9-49fb-af1f-6199bb8a403f_dpizug.png',
+
                 ],
                 description: 'Hammock fashion axe gochujang, woke locavore mlkshk street art unicorn four loko schlitz squid. Lumbersexual 8-bit jianbing shabby chic JOMO snackwave. Woke locavore mlkshk street art unicorn four loko schlitz squid.',
 
@@ -138,8 +157,13 @@ export const albums = {
                 category: 'interiors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                // photoURLs: [
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                // ],
                 photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 ],
@@ -151,8 +175,13 @@ export const albums = {
                 category: 'interiors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                // photoURLs: [
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                // ],
                 photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 ],
@@ -164,8 +193,13 @@ export const albums = {
                 category: 'interiors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638433/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_2df51ea8-93a5-4c97-a83f-9b3e8dcb039c_rnt4jp.png',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                // photoURLs: [
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                // ],
                 photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 ],
@@ -177,8 +211,13 @@ export const albums = {
                 category: 'interiors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638552/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_4eaf4c3d-fdd1-456f-a43d-7705f5d2b01a_anq6b9.png',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                // photoURLs: [
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                // ],
                 photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 ],
@@ -190,8 +229,13 @@ export const albums = {
                 category: 'interiors',
                 thumbnailURL: 'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638528/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_0c151a07-d233-460a-ad28-ea835bf7b69a_kk1boq.png',
                 thumbnailURLLowQ: 'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
+                // photoURLs: [
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
+                //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                // ],
                 photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 ],

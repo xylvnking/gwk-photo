@@ -1,8 +1,11 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import { albums } from '../pages'
 import Link from 'next/link'
 import styles from './Main.module.scss'
 import Image from 'next/image'
+import Lightbox from './Lightbox'
+
+const heightsArray = []
 
 export default function Album(props) {
 
@@ -12,9 +15,29 @@ export default function Album(props) {
     //     index={router.query.album[2]}
     // />
 
-    console.log(albums[props.category][props.index].photoURLs)
-    // console.log(props)
+    
 
+    // this wont work because if the images reload after being resized it will mess things up
+    // const [dimen, setdimen] = useState(null)
+
+    const [lightboxOpen, setLightboxOpen] = useState(false)
+
+    // const [heights, setHeights] = useState(null)
+
+    // const logHeight = (height) => {
+    //     heightsArray.push(height)
+    //     console.log(heightsArray)
+    //     setHeights(heightsArray)
+    //     setdimen(height)
+    // }
+
+    // const handleClick = (event) => {
+    //     console.log(event.target.src)
+    // }
+    const handleClick = (photo) => {
+        console.log(photo)
+        setLightboxOpen(!lightboxOpen)
+    }
 
     return (
         <div id={styles["albumContainer"]}>
@@ -29,17 +52,32 @@ export default function Album(props) {
                 </Link>
             </nav>
             <main>
+                {/* <section id={styles["gridContainer"]} style={{gridTemplateRows: heights}}> */}
+                lightboxOpen &&
+                <Lightbox photos={albums[props.category][props.index].photoURLsLQ}/>
+
                 <section id={styles["gridContainer"]}>
                     {
-                        albums[props.category][props.index].photoURLs.map((photo, index) => {
+                        albums[props.category][props.index].photoURLsLQ.map((photo, index) => {
                             return (
-                                <div className={styles.imageWrapper}>
+                                // <div className={styles.imageWrapper} key={index} style={{height: dimen}}>
+                                // <div className={styles.imageWrapper} key={index} style={heights && {height: heights[index]}}>
+                                <div className={styles.imageWrapper} key={index}>
+                                {/* <div className={styles.imageWrapper} key={index} style={heights && {height: heights[index]}}>
+                                <div className={styles.imageWrapper} key={index}> */}
                                     <Image 
                                         src={photo}
-                                        objectFit='contain'
+                                        // objectFit='contain'
+                                        objectFit='cover'
                                         layout='fill'
                                         // height={100}
                                         // width={100}
+                                        // onLoadingComplete={e => console.log(e)}
+                                        // onLoadingComplete={e => setdimen(e.naturalHeight)}
+                                        // onLoadingComplete={e => logHeight(e.naturalHeight)}
+                                        // onLoadingComplete={e => logHeight(e.naturalHeight)}
+                                        // onClick={(e) => handleClick(e)}
+                                        onClick={() => handleClick(index)}
                                     />
                                 </div>
                             )
