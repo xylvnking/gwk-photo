@@ -14,7 +14,7 @@ export default function Album(props) {
     //     albumName={router.query.album[1]}
     //     index={router.query.album[2]}
     // />
-
+    // console.log(props.index)
     
 
     // this wont work because if the images reload after being resized it will mess things up

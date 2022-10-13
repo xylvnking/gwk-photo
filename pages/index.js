@@ -46,10 +46,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'JOMO mixtape migas mukbang sus. YOLO kickstarter aesthetic asymmetrical, trust fund messenger bag squid thundercats drinking vinegar big mood farm.',
 
@@ -65,10 +80,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: ' Pork belly keytar jean shorts, wolf migas succulents pop-up offal taxidermy hoodie pitchfork williamsburg lumbersexual. Lo-fi put a bird on it echo park before they sold out.',
 
@@ -83,10 +113,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Food truck schlitz man braid actually knausgaard you probably havent heard of them direct trade next level semiotics +1. Cloud bread gochujang raclette +1, hexagon fit.',
 
@@ -101,10 +146,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Tattooed raw denim prism kombucha, cold-pressed pinterest pork belly. Hella pok pok disrupt bushwick art party, tattooed pickled af yuccie VHS jianbing microdosing. Tattooed raw denim prism kombucha, cold-pressed pinterest pork belly. Hella pok pok disrupt bushwick art party, tattooed pickled af yuccie VHS jianbing microdosing.',
 
@@ -119,10 +179,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
                     'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Street art bitters PBR&B, affogato bruh yes plz slow-carb bicycle rights intelligentsia. Glossier banjo skateboard portland iPhone hexagon fam messenger',
 
@@ -140,15 +215,27 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638433/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_2df51ea8-93a5-4c97-a83f-9b3e8dcb039c_rnt4jp.png',
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638696/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_e3a7efff-7790-4a1f-938b-d5386c4495db_afn0hd.png',
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638433/GWK/xylvn_interior_of_a_newly_built_modern_single_family_home_2df51ea8-93a5-4c97-a83f-9b3e8dcb039c_rnt4jp.png',
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638214/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_317cea22-27f9-49fb-af1f-6199bb8a403f_dpizug.png',
-
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
                 ],
+                photoURLsLQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
+                ],
+                
                 description: 'Hammock fashion axe gochujang, woke locavore mlkshk street art unicorn four loko schlitz squid. Lumbersexual 8-bit jianbing shabby chic JOMO snackwave. Woke locavore mlkshk street art unicorn four loko schlitz squid.',
 
             },
@@ -162,10 +249,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'JOMO mixtape migas mukbang sus. YOLO kickstarter aesthetic asymmetrical, trust fund messenger bag squid thundercats drinking vinegar big mood farm.',
 
@@ -180,10 +282,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: ' Pork belly keytar jean shorts, wolf migas succulents pop-up offal taxidermy hoodie pitchfork williamsburg lumbersexual. Lo-fi put a bird on it echo park before they sold out.',
 
@@ -198,10 +315,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Food truck schlitz man braid actually knausgaard you probably havent heard of them direct trade next level semiotics +1. Cloud bread gochujang raclette +1, hexagon fit.',
 
@@ -216,10 +348,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Tattooed raw denim prism kombucha, cold-pressed pinterest pork belly. Hella pok pok disrupt bushwick art party, tattooed pickled af yuccie VHS jianbing microdosing. Tattooed raw denim prism kombucha, cold-pressed pinterest pork belly. Hella pok pok disrupt bushwick art party, tattooed pickled af yuccie VHS jianbing microdosing.',
 
@@ -234,10 +381,25 @@ export const albums = {
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
                 //     'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
                 // ],
-                photoURLs: [
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665618141/GWK/spacejoy-9M66C_w_ToM-unsplash_byimty.jpg', 
-                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665619943/GWK/hero1.jpg'
+                photoURLsHQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/v1665616717/GWK/house1_gckawh.png',
+                ],
+                photoURLsLQ: [
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638637/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_5e377c7c-bac5-421e-9c66-4e4e0adb4f7e_wlcrfn.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638539/GWK/xylvn_national_arts_center_4k_8715a981-173a-4c0f-a3bb-b722527f0d07_mwlect.png', 
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638081/GWK/xylvn_a_newly_built_modern_single_family_home_detailed_56697502-aea1-4d36-bc19-d9ff5552094b_iy4aem.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665638020/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_ca08aa61-9769-409a-ad8c-a8dd7a355207_fgc679.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637159/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_73dc62ba-4b56-4c4b-99b5-c5cf8e31e58b_kttnxy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665637101/GWK/xylvn_exterior_of_a_newly_built_modern_single_family_home_8fa75b69-512f-49ca-875f-433a9d57601a_mob8cy.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636850/GWK/mobileHero_ah3u8a.png',
+                    'https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665616717/GWK/house1_gckawh.png',
                 ],
                 description: 'Street art bitters PBR&B, affogato bruh yes plz slow-carb bicycle rights intelligentsia. Glossier banjo skateboard portland iPhone hexagon fam messenger',
 
