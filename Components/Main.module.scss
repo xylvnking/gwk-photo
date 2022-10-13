@@ -195,3 +195,45 @@ $max-width: 1500px;
         }
     }
 }
+
+#albumContainer {
+    // background-color: #00a3ff;
+    max-width: 1500px;
+    #nav{
+        #home {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 20px;
+            padding: 10px;
+            width: 150px;
+            cursor: pointer;
+            &:hover {
+                background-color: black;
+                color: white;
+                svg {
+                    fill: white;
+                }
+            }
+            h1 {
+                font-size: 20px;
+            }
+            svg {
+            }
+            // background-color: #00a3ff;
+            // padding: 20px;
+        }
+    }
+    #gridContainer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        background-color: #c252e1;
+
+        .imageWrapper {
+            background-color: #00a3ff;
+            position: relative;
+            height: 100px;
+            width: 100px;
+        }
+    }
+}

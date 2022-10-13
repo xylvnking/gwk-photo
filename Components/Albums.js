@@ -31,7 +31,8 @@ export default function Albums() {
             <section className={styles.albumsGrid}>
                 {albums.exteriors.map((album, index) => {
                     return (
-                        <Link key={index} href={`/${album.albumName}`}>
+                        // <Link key={index} href={`/${album.albumName}?index=${index}`}>
+                        <Link key={index} href={`/${album.category}/${album.albumName}/${index}`}>
                             <ul>
                                 {/* <Image src={album.thumbnailURL} 
                                     objectFit='contain' 
