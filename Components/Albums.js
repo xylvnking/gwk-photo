@@ -27,7 +27,7 @@ import { albums } from '../pages'
 export default function Albums() {
     return (
         <main id={styles["albumsContainer"]}>
-            <h1> Exteriors </h1>
+            <h1> exteriors </h1>
             <section className={styles.albumsGrid}>
                 {albums.exteriors.map((album, index) => {
                     return (
@@ -59,7 +59,7 @@ export default function Albums() {
                     )
                 })}
             </section>
-            <h1> Interiors </h1>
+            <h1> interiors </h1>
             <section className={styles.albumsGrid}>
                 {albums.interiors.map((album, index) => {
                     return (
