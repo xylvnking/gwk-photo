@@ -24,7 +24,7 @@ $max-width: 1500px;
     font-family: 'Merriweather', serif;
 
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     align-items: flex-end;
     height: 100vh;
     position: relative;
@@ -57,15 +57,18 @@ $max-width: 1500px;
             
         }
     }
+    // position: relative;
     .heroPhotoWrapperDesktop {
+        // position: fixed;
         z-index: 0;
-        @media(max-width:699px) {
+        // position: relative;
+        @media(max-width:499px) {
             display: none;
         }
     }
     .heroPhotoWrapperMobile {
         z-index: 0;
-        @media(min-width:700px) {
+        @media(min-width:500px) {
             display: none;
         }
     }
@@ -75,6 +78,7 @@ $max-width: 1500px;
 
 #albumsContainer {
     // background-color: #7D59C7;
+    padding-top: 50px;
     color: $black;
     // width: 100vw;
     // width: 100%;
@@ -82,7 +86,15 @@ $max-width: 1500px;
     // margin: auto;
     // width: 200px;
     // background-color: $black;
-    #albumsGrid {
+    h1 {
+        font-size: 48px;
+        padding: 20px;
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+        // padd
+    }
+    // width: 100%;
+    .albumsGrid {
         display: grid;
         // background-color: #00a3ff;
         // padding: 5px;
@@ -90,12 +102,13 @@ $max-width: 1500px;
             // padding: 30px;
             max-width: 1500px;
             grid-template-columns: 1fr 1fr;
+            grid-template-rows: repeat(3, 500px);
             @media(min-width: 1000px) {
                 grid-template-columns: 1fr 1fr 1fr;
+                grid-template-rows: repeat(2, 500px);
 
             }
             // grid-template-rows: 1fr 1fr 1fr;
-            grid-template-rows: repeat(5, 500px);
             // gap: 30px;
             // margin: 10px;
             

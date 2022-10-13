@@ -27,8 +27,9 @@ import { albums } from '../pages'
 export default function Albums() {
     return (
         <main id={styles["albumsContainer"]}>
-            <section id={styles["albumsGrid"]}>
-                {albums.map((album, index) => {
+            <h1> Exteriors </h1>
+            <section className={styles.albumsGrid}>
+                {albums.exteriors.map((album, index) => {
                     return (
                         <Link key={index} href={`/${album.albumName}`}>
                             <ul>
@@ -38,10 +39,43 @@ export default function Albums() {
                                     width={100}
                                 /> */}
                                 <div id={styles["albumImage"]}>
-                                    <Image src={album.thumbnailURL} 
+                                    {/* <Image src={album.thumbnailURL}  */}
+                                    <Image src={album.thumbnailURLLowQ} 
                                         // objectFit='contain' 
                                         objectFit='cover' 
                                         layout='fill'
+                                        quality={1}
+                                        // placeholder='blue'
+                                        // blurDataURL='https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg'
+                                    />
+                                </div>
+                                <li id={styles["albumText"]}>
+                                    <h1>{album.albumName}</h1>
+                                    <p>{album.description}</p>
+                                </li>
+                            </ul>
+                        </Link>
+                    )
+                })}
+            </section>
+            <h1> Interiors </h1>
+            <section className={styles.albumsGrid}>
+                {albums.interiors.map((album, index) => {
+                    return (
+                        <Link key={index} href={`/${album.albumName}`}>
+                            <ul>
+                                {/* <Image src={album.thumbnailURL} 
+                                    objectFit='contain' 
+                                    height={100}
+                                    width={100}
+                                /> */}
+                                <div id={styles["albumImage"]}>
+                                    {/* <Image src={album.thumbnailURL}  */}
+                                    <Image src={album.thumbnailURLLowQ} 
+                                        // objectFit='contain' 
+                                        objectFit='cover' 
+                                        layout='fill'
+                                        quality={1}
                                         // placeholder='blue'
                                         // blurDataURL='https://res.cloudinary.com/deqrwzr3q/image/upload/c_thumb,w_200,g_face/v1665636084/GWK/naomi-hebert-MP0bgaS_d1c-unsplash_zrblnm.jpg'
                                     />

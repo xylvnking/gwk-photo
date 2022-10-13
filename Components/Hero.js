@@ -23,7 +23,7 @@ export default function Hero() {
                 objectFit='cover' 
                 layout='fill'
                 // layout='fixed'
-                // quality={1}
+                quality={3}
                 priority='true'
                 // placeholder="blur"
                 // blurDataURL={`data:image/svg+xml;base64,${toBase64(shimmer(1000, 3000))}`}
@@ -41,8 +41,8 @@ export default function Hero() {
                 objectFit='cover' 
                 layout='fill'
                 // layout='fixed'
-                // quality={1}
-                priority='true'
+                quality={1}
+                // priority='true'
                 // placeholder="blur"
                 // blurDataURL={`data:image/svg+xml;base64,${toBase64(shimmer(1000, 3000))}`}
 
