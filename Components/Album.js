@@ -21,6 +21,8 @@ export default function Album(props) {
     // const [dimen, setdimen] = useState(null)
 
     const [lightboxOpen, setLightboxOpen] = useState(false)
+    const [indexOfPhotoClickedOn, setIndexOfPhotoClickedOn] = useState(null)
+    // const [currentControl, setCurrentControl] = useState()
 
     // const [heights, setHeights] = useState(null)
 
@@ -34,12 +36,40 @@ export default function Album(props) {
     // const handleClick = (event) => {
     //     console.log(event.target.src)
     // }
-    const handleClick = (photo) => {
-        console.log(photo)
+    const handleClick = (photoIndex) => {
+        // console.log(photoIndex)
+        setIndexOfPhotoClickedOn(photoIndex)
         setLightboxOpen(!lightboxOpen)
     }
 
+
+    // need index of photo which was clicked on
+
+    // const handleInput = () => {
+
+    // }
+
+    // useEffect(() => {
+    //     document.addEventListener('keydown', (e) => setCurrentControl(e.key))
+    // },[])
+
     return (
+        <>
+        
+        {
+            lightboxOpen &&
+            <div>
+                <div id={styles["blackout"]}></div>
+                <Lightbox 
+                    photos={albums[props.category][props.index].photoURLsLQ}
+                    setLightboxOpen={setLightboxOpen}
+                    indexOfPhotoClickedOn={indexOfPhotoClickedOn}
+                    // currentControl={currentControl}
+                />
+            </div>
+        }
+        {
+            !lightboxOpen &&
         <div id={styles["albumContainer"]}>
             <nav id={styles["nav"]}>
                 <Link href='/'>
@@ -53,8 +83,7 @@ export default function Album(props) {
             </nav>
             <main>
                 {/* <section id={styles["gridContainer"]} style={{gridTemplateRows: heights}}> */}
-                lightboxOpen &&
-                <Lightbox photos={albums[props.category][props.index].photoURLsLQ}/>
+                
 
                 <section id={styles["gridContainer"]}>
                     {
@@ -86,5 +115,7 @@ export default function Album(props) {
                 </section>
             </main>
         </div>
+        }
+        </>
     )
 }

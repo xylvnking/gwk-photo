@@ -200,11 +200,14 @@ $max-width: 1500px;
     // background-color: #00a3ff;
     max-width: 1500px;
     margin: auto;
+    
     #nav{
         position: sticky;
         top: 0px;
         z-index: 99;
         background-color: white;
+        max-height: 10vh;
+        overflow: hidden;
         #home {
             display: flex;
             justify-content: flex-start;
@@ -229,6 +232,7 @@ $max-width: 1500px;
             // padding: 20px;
         }
     }
+    
     #gridContainer {
         // mawi
         // width: 100%;
@@ -236,9 +240,13 @@ $max-width: 1500px;
         grid-template-columns: 1fr 1fr 1fr;
         // grid-template-columns: 1fr;
         // grid-template-rows: minmax(auto, 200px);
+        // grid-template-rows: 400px;
         // display: flex;
         // flex-direction: column;
-        grid-template-rows: 200px 200px 200px;
+        // grid-template-rows: 200px 200px 200px;
+        // grid-template-rows: 33vh 33vh 33vh 33vh;
+        grid-template-rows: 50vh 50vh 50vh 50vh;
+        // grid-template-rows: repeat(4, 33vh);
         background-color: #c252e1;
         
 
@@ -256,14 +264,88 @@ $max-width: 1500px;
                 // border-radius: 50%;
                 box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
                 cursor: pointer;
-                z-index: 99;
+                z-index: 50;
                 // border: 2px white solid;
                 // margin: -2px;
             }
         }
     }
-    #lightboxContainer {
-        background-color: #00a3ff;
+    
+}
+#blackout {
+    // background-color: #00c735;
+    background-color: $black;
+    // background-color: rgba(30, 30, 30, 0.708);
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    z-index: 50;
+    left: 0px;
+    top: 0px;
+}
+#lightboxContainerContainer {
+max-width: 3000px;
+// overflow: scroll;
+margin: auto;
+position: relative;
+// background-color: yellow;
+height: 100vh;
+z-index: 99;
+// overflow: visible;
+
+#lightboxContainer {
         height: 50vh;
+        position: fixed;
+        margin: auto;
+        z-index: 98;
+        h1 {
+            background-color: white;
+            max-width: 100px;
+            padding: 10px;
+            cursor: pointer;
+            &:hover {
+                background-color: #00c735;
+            }
+            z-index: 999;
+        }
+        #lightboxGrid {
+            background-color: black;
+            display: grid;
+            grid-template-columns: repeat(20, 1000px);
+            // grid-template-columns: repeat(20, 100vw);
+            grid-template-rows: 80vh;
+            overflow: scroll;
+            max-width: 3000px;
+            div {
+                position: relative;
+                width: 100%;
+            }
+        }
+    
+    }
+}
+
+#lightboxContainer2 {
+    z-index: 99;
+    position: relative;
+    background-color: #00a3ff;
+    height: 100vh;
+    h1 {
+        background-color: white;
+        max-width: 100px;
+        padding: 10px;
+        cursor: pointer;
+        &:hover {
+            background-color: #00c735;
+        }
+        z-index: 999;
+    }
+    .arrowButton {
+        background-color: white;
+        padding: 20px;
+        &:hover {
+            background-color: #5f5f5f;
+            cursor: pointer;
+        }
     }
 }
