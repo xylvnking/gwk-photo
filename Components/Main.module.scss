@@ -98,6 +98,9 @@ $max-width: 1500px;
         display: grid;
         // background-color: #00a3ff;
         // padding: 5px;
+        gap: 20px;
+        // ma
+        padding: 20px;
         @media(min-width: 700px) {
             // padding: 30px;
             max-width: 1500px;
